@@ -28,7 +28,7 @@ Welcome to **Project 1** of the **DecodeLabs Virtual Internship** under the **AI
 PreDefined_ChatBot_DecodeLabs_Project1/
 │
 ├── main.py                     # The core ChatBot application code and runner loop
-├── Images                      # Contains Images of the Terminal
+├── Images/                      # Contains Images of the Terminal
 ├── predefined_responses.json   # JSON file containing predefined question-to-answer mappings
 └── README.md                   # Project documentation and guide
 ```
